@@ -11,10 +11,10 @@
     "node": ">=0.8.x",
     "npm": ">=1.1.x"
   },
-  "homepage": "http://github.com/imperialwicket/hubot-elk-restore",
+  "homepage": "https://github.com/imperialwicket/hubot-elk-restore",
   "author": {
     "name": "Nicholas Whittier",
-    "url": "http://github.com/imperialwicket"
+    "url": "https://github.com/imperialwicket"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,8 @@
     "url": "https://github.com/imperialwicket/hubot-elk-restore/issues"
   },
   "license": {
-    "type": "MIT"
+    "type": "MIT",
+    "url": "https://github.com/imperialwicket/hubot-elk-restore/raw/master/LICENSE"
   },
   "keywords": [
     "elasticsearch",
