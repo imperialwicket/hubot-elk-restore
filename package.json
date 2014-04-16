@@ -4,7 +4,6 @@
   "description": "Elasticsearch Restore/Close API wrapper for Hubot (ELK focused).",
   "main": "index.coffee",
   "dependencies": {
-    "hubot": ">= 2.6.0",
     "lodash": ">=2.4.0"
   },
   "engines": {
