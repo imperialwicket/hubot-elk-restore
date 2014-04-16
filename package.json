@@ -27,6 +27,7 @@
     "url": "https://github.com/imperialwicket/hubot-elk-restore/raw/master/LICENSE"
   },
   "keywords": [
+    "hubot",
     "elasticsearch",
     "logstash",
     "restore",
