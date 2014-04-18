@@ -10,6 +10,7 @@ Update Hubot's package.json to install hubot-elk-restore from npm, and update Hu
 ### Update the files to include the hubot-elk-restore module:
 
 #### package.json
+
     ...
     "dependencies": {
         "hubot":        ">= 2.4.0 < 3.0.0",
@@ -19,9 +20,10 @@ Update Hubot's package.json to install hubot-elk-restore from npm, and update Hu
     ...
 
 #### external-scripts.json
+
     ["hubot-awesome-module","hubot-elk-restore"]
 
-    Run `npm install` (hubot will do this on start) to install hubot-elk-restore and dependencies.
+Run `npm install` (hubot will do this on start) to install hubot-elk-restore and dependencies.
 
 ## Configuration
 
