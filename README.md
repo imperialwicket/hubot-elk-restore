@@ -1,7 +1,7 @@
 hubot-elk-restore
 =================
 
-Elasticsearch (elk-focused) api wrapper for restoring daily indices.
+Elasticsearch (elk-focused) api wrapper for restoring daily indices, available on [npm](https://www.npmjs.org/package/hubot-elk-restore).
 
 ## Installation
 
