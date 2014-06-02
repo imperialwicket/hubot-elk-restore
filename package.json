@@ -1,6 +1,6 @@
 {
   "name": "hubot-elk-restore",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Elasticsearch Restore/Close API wrapper for Hubot (ELK focused).",
   "main": "index.coffee",
   "dependencies": {
