@@ -81,12 +81,12 @@ esSnapshots = (msg) ->
 # TODO bail if there's no ES_SNAPSHOT_REPO value? or allow setting from user
 # TODO check the es version?
 module.exports = (robot) ->
-  robot.hear /^elk indices$/, (msg) ->
+  robot.hear /elk indices/, (msg) ->
     esIndices msg
 
-  robot.hear /^elk snapshots$/, (msg) -> 
+  robot.hear /elk snapshots/, (msg) -> 
     esSnapshots msg
 
-  robot.hear /^elk (close|restore) ([\d]{4}.[\d]{2}.[\d]{2})$/, (msg) ->
+  robot.hear /elk (close|restore) ([\d]{4}.[\d]{2}.[\d]{2})/, (msg) ->
     esCloseOrRestore msg
 
